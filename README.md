@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [http://kaushikbanerjee.epizy.com.me](http://kaushikbanerjee.epizy.com)
 
-- 📫 How to reach me **hi@kaushikbanerjee**
+- 📫 How to reach me **kaushikbanerjeeportfolio@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
