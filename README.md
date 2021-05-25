@@ -1,6 +1,6 @@
 # Welcome here.. 👋
 
-<h3>I'm a Full Stack Developer and UI Designer from India.</h3>
+<h3>I'm a Full Stack Developer and an UI Designer from India.</h3>
 
 - 🔭 I’m currently working on [amazon-clone](https://github.com/meKaushikBanerjee/a10dance) - a total first copy of amazon witha new sleek and clean ui design
 
