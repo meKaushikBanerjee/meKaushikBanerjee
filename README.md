@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [http://kaushikbanerjee.epizy.com.me](website)
+- 👨‍💻 All of my projects are available at [website](website)
 
 - 📫 How to reach me **email id**
 
